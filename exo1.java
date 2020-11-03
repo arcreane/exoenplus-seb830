@@ -10,6 +10,7 @@ public class exo1{
 		int essai = 10;
 		boolean playing = true;
 		
+		
 		while(playing) {
 		do{
 		System.out.println("Deviner un nombre entre 1 et 100 - Vous avez " + essai + " essais");
